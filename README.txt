@@ -9,3 +9,5 @@ Buat program (Java dan Python) menggunakan struktur data array (fixed-size array
 8.    Show data (tampilkan semua data di array)
 9.    Exit
 saya di suruh membuat tugas tentang struktur data array
+
+kamu sudah melihat file python saya sekarang buatkan versi java nya
