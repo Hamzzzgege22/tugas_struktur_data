@@ -11,3 +11,7 @@ Buat program (Java dan Python) menggunakan struktur data array (fixed-size array
 saya di suruh membuat tugas tentang struktur data array
 
 kamu sudah melihat file python saya sekarang buatkan versi java nya
+
+link vidio tugas
+
+https://drive.google.com/drive/folders/1B8hh0dF1Etq2kBdev05ukFYjFpZWo-W2?usp=sharing
